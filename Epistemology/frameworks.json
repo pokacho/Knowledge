@@ -1,1 +1,117 @@
-Hello
+{
+  "epistemological_frameworks": [
+    "Rationalism",
+    "Empiricism",
+    "Skepticism",
+    "Pragmatism",
+    "Coherentism",
+    "Foundationalism",
+    "Constructivism",
+    "Reliabilism",
+    "Naturalized Epistemology",
+    "Social Epistemology",
+    "Foundherentism",
+    "Fallibilism",
+    "Internalism",
+    "Externalism",
+    "Relativism",
+    "Foundational Coherentism",
+    "Instrumentalism",
+    "Contextualism",
+    "Reductionism",
+    "Holism",
+    "Foundational Foundationalism",
+    "Epistemic Reliability"
+  ],
+  "epistemological_explanations": [
+    {
+      "framework": "Rationalism",
+      "explanation": "The belief that knowledge is primarily derived through reason and rational thought processes."
+    },
+    {
+      "framework": "Empiricism",
+      "explanation": "The belief that knowledge is primarily derived through sensory experience and observation of the external world."
+    },
+    {
+      "framework": "Skepticism",
+      "explanation": "The questioning and doubting of the possibility of certain knowledge or the reliability of our cognitive faculties."
+    },
+    {
+      "framework": "Pragmatism",
+      "explanation": "The emphasis on the practical consequences and usefulness of beliefs and knowledge in guiding action."
+    },
+    {
+      "framework": "Coherentism",
+      "explanation": "The idea that knowledge and justification are based on the internal coherence and consistency of a set of beliefs."
+    },
+    {
+      "framework": "Foundationalism",
+      "explanation": "The belief that knowledge is based on certain foundational beliefs or principles that serve as the basis for all other knowledge."
+    },
+    {
+      "framework": "Constructivism",
+      "explanation": "The view that knowledge is actively constructed by individuals through their interactions with the world and social contexts."
+    },
+    {
+      "framework": "Reliabilism",
+      "explanation": "The focus on the reliability of the processes or methods by which knowledge is acquired, rather than on the content of beliefs themselves."
+    },
+    {
+      "framework": "Naturalized Epistemology",
+      "explanation": "The approach that seeks to understand knowledge and justification in terms of natural and scientific processes, often drawing on empirical findings from cognitive science."
+    },
+    {
+      "framework": "Social Epistemology",
+      "explanation": "The study of knowledge and justification in the context of social interactions, communities, and cultural influences."
+    },
+    {
+      "framework": "Foundherentism",
+      "explanation": "A combination of foundationalism and coherentism, suggesting that knowledge is based on both foundational beliefs and their coherence within a broader network of beliefs."
+    },
+    {
+      "framework": "Fallibilism",
+      "explanation": "The recognition that our knowledge and beliefs are subject to potential error and revision, and that absolute certainty is unlikely."
+    },
+    {
+      "framework": "Internalism",
+      "explanation": "The position that justification and knowledge depend solely on factors internal to the individual, such as their mental states or cognitive processes."
+    },
+    {
+      "framework": "Externalism",
+      "explanation": "The view that factors external to the individual, such as the reliability of belief-forming mechanisms or the causal connection with the external world, are crucial for justification and knowledge."
+    },
+    {
+      "framework": "Relativism",
+      "explanation": "The belief that knowledge and truth are relative to particular perspectives, contexts, or cultural frameworks."
+    },
+    {
+      "framework": "Foundational Coherentism",
+      "explanation": "The idea that knowledge is based on a coherent network of beliefs, where some beliefs serve as foundational and provide support for other beliefs."
+    },
+    {
+      "framework": "Instrumentalism",
+      "explanation": "The emphasis on the practical utility or instrumental value of knowledge rather than its correspondence to truth or reality."
+    },
+    {
+      "framework": "Contextualism",
+      "explanation": "The view that the meaning and truth of knowledge claims depend on the specific context or circumstances in which they are made."
+    },
+    {
+      "framework": "Reductionism",
+      "explanation": "The approach that seeks to reduce complex knowledge claims or phenomena to simpler or more fundamental elements or principles."
+    },
+    {
+      "framework": "Holism",
+      "explanation": "The idea that knowledge and understanding require an appreciation of the whole system or context, rather than analyzing isolated parts."
+    },
+    {
+      "framework": "Foundational Foundationalism",
+      "explanation": "The belief that knowledge ultimately rests on a foundational belief or principle that is self-evident or indubitable."
+    },
+    {
+      "framework": "Epistemic Reliability",
+      "explanation": "The focus on the reliability or trustworthiness of the cognitive processes or sources of knowledge in determining justification and truth."
+    }
+  ]
+}
+
